@@ -1,22 +1,34 @@
-Connect Four with AI (Python + Pygame)
-This is a Python implementation of the classic Connect Four game using Pygame for graphics and the Minimax algorithm (with alpha-beta pruning) for the AI opponent.
+**Connect Four with AI (Python + Pygame)**
 
-Features
-Fun 2-player-style game: You vs AI
-Clean interface built with Pygame
-Smart AI using Minimax with heuristic scoring
-Game-over detection (Win or Draw)
-Choose who goes first (Player or AI)
-Option to play again after each match
-Requirements
+-This is a Python implementation of the classic Connect Four game using Pygame for graphics and the Minimax algorithm (with alpha-beta pruning) for the AI opponent.
+
+
+**Features**
+
+- Fun 2-player-style game: You vs AI
+
+- Clean interface built with Pygame
+
+- Smart AI using Minimax with heuristic scoring
+
+- Game-over detection (Win or Draw)
+
+- Choose who goes first (Player or AI)
+
+- Option to play again after each match
+
+**Requirements**
 Python 3.x
+
 pygame
+
 numpy
-Install dependencies:
+
+**Install dependencies:**
 
 **pip install pygame numpy**
 
-How to Play
+**How to Play**
 Run the game:
 python connect_four.py
 
