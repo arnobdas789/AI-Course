@@ -1,5 +1,6 @@
 ## A* Search
-- How it works: Calculates f(n) = g(n) + h(n) where g(n) is the cost so far and h(n) is the heuristic estimate to the goal. Uses a priority queue to always expand the lowest f(n) node.
+- **How it works:**
+- Calculates f(n) = g(n) + h(n) where g(n) is the cost so far and h(n) is the heuristic estimate to the goal. Uses a priority queue to always expand the lowest f(n) node.
 - Applications: Robot motion planning, navigation systems, video game pathfinding.
 - Complexity:
 - Time: O(b^d) in worst case.
