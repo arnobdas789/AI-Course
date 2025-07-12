@@ -4,4 +4,5 @@
 - **Complexity:**
 - Time: O(b^(m/2)) with effective pruning.
 - **Images:**
--![Uploading image.png…]()
+-<img width="650" height="277" alt="image" src="https://github.com/user-attachments/assets/21d008d1-11b4-43af-a832-82206f305b79" />
+
