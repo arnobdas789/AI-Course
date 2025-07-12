@@ -30,21 +30,29 @@ numpy
 
 **How to Play**
 Run the game:
+
 python connect_four.py
+
 
 On the menu:
 
-Press 1 to go first (Red)
-Press 2 to go second (Yellow)
-Press Q to quit
-Click on a column to drop your chip.
 
-First to connect 4 in a row (vertically, horizontally, or diagonally) wins!
+-Press 1 to go first (Red)
 
-At the end, press Y to play again or N to quit.
+-Press 2 to go second (Yellow)
 
-AI Logic
-The AI uses the Minimax algorithm with alpha-beta pruning for faster decisions and a scoring system based on:
+-Press Q to quit
+
+-Click on a column to drop your chip.
+
+**First to connect 4 in a row (vertically, horizontally, or diagonally) wins!**
+
+
+**At the end, press Y to play again or N to quit.**
+
+**AI Logic**
+
+-The AI uses the Minimax algorithm with alpha-beta pruning for faster decisions and a scoring system based on:
 
 Connected pieces
 Center dominance
