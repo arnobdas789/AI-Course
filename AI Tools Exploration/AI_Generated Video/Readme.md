@@ -36,18 +36,11 @@ This video introduces the core concepts of artificial intelligence through a con
 
 ---
 
-## 🎯 Future Plans
-
-- Expand the course overview into a full video series.
-- Localize content for Bengali-speaking learners.
-- Add interactive elements such as quizzes or animated explainers.
-
----
 
 ## 👤 Author
 
 **Arnob**  
-Aspiring network engineer, AI enthusiast, and creative educator. Passionate about simplifying complex tech for curious minds.
+AI enthusiast, and creative educator. Passionate about simplifying complex tech for curious minds.
 
 ---
 
