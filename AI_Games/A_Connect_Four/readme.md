@@ -6,7 +6,7 @@
 
 ## 🧰 Requirements
 Install required libraries:
-```bash
+
 pip install pygame numpy
 
 Included Libraries
