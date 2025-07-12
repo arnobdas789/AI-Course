@@ -2,12 +2,10 @@
 
 # 🎮 Connect Four with AI (Python + Pygame)
 
-# 🔴🟡 Connect Four — AI Game
-
 ## 🧰 Requirements
 Install required libraries:
 
-pip install pygame numpy
+**pip install pygame numpy**
 
 Included Libraries
 - pygame — for rendering the game board and handling mouse events
