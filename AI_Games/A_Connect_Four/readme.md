@@ -14,7 +14,7 @@ pygame
 numpy
 Install dependencies:
 
-pip install pygame numpy
+**pip install pygame numpy**
 
 How to Play
 Run the game:
