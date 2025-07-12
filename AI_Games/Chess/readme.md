@@ -24,15 +24,19 @@ No external libraries (uses Tkinter & math)
 
 Save as tic_tac_toe.py
 Run with python tic_tac_toe.py
+
 🎮 How to Play
 
 You: X | Computer: O
 Click to make a move
 Game auto-resets after win/draw
+
+
 🧠 AI Logic
 
 Uses Minimax for perfect play
 AI never loses
+
 🧩 Main Functions
 
 create_board(): Draws buttons
