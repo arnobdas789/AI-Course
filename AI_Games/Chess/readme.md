@@ -39,8 +39,13 @@ AI never loses
 
 🧩 Main Functions
 
+
 create_board(): Draws buttons
+
 on_click(): Player move handler
+
 computer_move(): AI chooses move
+
 minimax(): Core AI logic
+
 check_winner() / is_draw() / reset_board(): Game state handling
