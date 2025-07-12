@@ -51,6 +51,3 @@ Scoring System:
 
 ---
 
-Want help turning this into a GitHub repository with badges, preview images, or a version that tracks player scores? I’ve got your back!
-
-
