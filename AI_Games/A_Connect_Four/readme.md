@@ -28,15 +28,12 @@ A simple 2D board game where the **goal is to connect four pieces in a row** bef
 4. Run the game with the following command:
 
 ```bash
-python connect_four.py
-🧰 Requirements
-You need to install the following Python libraries:
+**## python connect_four.py**
+**##🧰 Requirements**
+-You need to install the following Python libraries:
 
-bash
-Copy
-Edit
-pip install pygame numpy
-Required Libraries
+- pip install pygame numpy
+**Required Libraries**
 pygame — for rendering the game board and handling events
 
 numpy — for efficient matrix (board) representation
