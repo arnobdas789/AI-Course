@@ -1,29 +1,11 @@
-# 🎮 Tic-Tac-Toe: Player vs Computer (with Minimax AI)
+# ♟️ Chess — Player vs Computer (Minimax AI)
 
-Play as X against a perfect AI (O) in this Python-based Tic-Tac-Toe game using Tkinter and the Minimax algorithm.
-
----
-
-## 🧠 Features
-
-- Turn-based: You vs AI  
-- Perfect AI using Minimax  
-- Auto win/draw detection  
-- Simple UI & auto-reset after each game  
+A sleek and strategic chess game built with Python and Pygame, featuring an AI opponent powered by the **Minimax algorithm** with **Alpha-Beta Pruning**.
 
 ---
 
-## 🚀 Requirements
+## 🧰 Requirements
 
-- Python 3.x  
-- No external libraries (uses Tkinter & math)
+Install required libraries with pip:
 
----
-
-## ▶️ How to Run
-
-1. Save the file as `tic_tac_toe.py`  
-2. Run the game with:
-
-```bash
-python tic_tac_toe.py
+**pip install pygame chess**
